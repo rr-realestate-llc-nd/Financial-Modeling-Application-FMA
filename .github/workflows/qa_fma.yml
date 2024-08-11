@@ -1,4 +1,4 @@
-name: FMA Production QA
+name: FMA QA Environment
 
 on:
   push:

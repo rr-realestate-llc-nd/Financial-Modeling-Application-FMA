@@ -1,0 +1,15 @@
+/* Global styles for the Financial Model Application */
+
+body {
+  margin: 0;
+  font-family: "Arial", "Helvetica Neue", sans-serif;
+  background-color: #ffffff;
+  color: #121212;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
